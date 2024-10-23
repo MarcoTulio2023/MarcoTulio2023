@@ -3,8 +3,8 @@
 [![Portfolio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://portfoliotulio.netlify.app/#inicio)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tulio_freitas034)
 [![LinKedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcotuliofreitas110/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](www.youtube.com/@tulio0639)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](www.tiktok.com/@tulio.edits06)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@tulio0639)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tulio.edits06)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5534993386937)
 
 ![MarcoTulio2023 Github Stats](https://github-readme-stats.vercel.app/api?username=MarcoTulio2023&theme=blue-green)
