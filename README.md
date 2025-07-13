@@ -33,7 +33,11 @@
 
 ## Sobre mim 🤙
 
-Sou graduando em Análise e Desenvolvimento de Sistemas (ADS) e possuo três anos de experiência como instrutor de tecnologia e coordenador pedagógico nas áreas de inglês e tecnologia. Durante esse período, tive a oportunidade de estudar e ministrar aulas em diversas áreas, como desenvolvimento web (HTML, CSS, JavaScript, Angular, Ionic, Cordova), programação em C#, banco de dados SQL, web design, design gráfico, informática, robótica, montagem e manutenção de computadores e redes, além de desenvolvimento de games. No entanto, foi no desenvolvimento Frontend que encontrei minha verdadeira paixão, e é nessa área que tenho focado e me aprimorado constantemente.
+🎓 Sou formado em Análise e Desenvolvimento de Sistemas e construí minha trajetória com base em três pilares: educação, tecnologia e inovação. Atuei como instrutor e coordenador pedagógico por três anos, onde desenvolvi habilidades técnicas e humanas ensinando temas como programação, desenvolvimento web, design, redes, robótica e manutenção de computadores.
 
-Decidi deixar meu trabalho anterior em busca de novos desafios e oportunidades no mercado de desenvolvimento Frontend, onde posso aplicar e expandir minhas habilidades. Estou motivado e determinado a construir uma carreira sólida nessa área, trazendo comigo uma base técnica diversificada.
+💼 Com o tempo, ampliei minha atuação para áreas como suporte técnico, atendimento ao usuário e desenvolvimento de sistemas, adquirindo uma visão prática sobre as necessidades reais de empresas e pessoas.
+
+🚀 Atualmente, trabalho com tecnologia e inovação, apoiando na adoção de ferramentas digitais, propondo melhorias e contribuindo com soluções criativas para diferentes áreas.
+
+🔧 Tenho conhecimentos em desenvolvimento web e integração de sistemas, e sigo em constante evolução, buscando unir minha bagagem multidisciplinar com meu interesse crescente por frontend, criação de interfaces modernas e tecnologia aplicada de forma inteligente.
 
